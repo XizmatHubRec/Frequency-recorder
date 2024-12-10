@@ -36,7 +36,7 @@
     ```bash
     git clone https://github.com/XizmatHubRec/Frequency-recorder.git
     cd Frequency-recorder
-    chmod +x setaup.sh
+    chmod +x setup.sh
     ./setup.sh
     ```
 
@@ -72,7 +72,7 @@
     ```bash
     git clone https://github.com/XizmatHubRec/Frequency-recorder.git
     cd Frequency-recorder
-    chmod +x setaup.sh
+    chmod +x setup.sh
     ./setup.sh
     ```
 
