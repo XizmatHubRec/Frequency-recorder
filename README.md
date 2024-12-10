@@ -32,7 +32,7 @@
     ```
 
 3. Clone the repository to your local machine:
-### Full installation
+
     ```bash
     git clone https://github.com/XizmatHubRec/Frequency-recorder.git
     cd Frequency-recorder
@@ -68,7 +68,7 @@
     ```
 
 3. Clone the repository to your local machine:
-### Full installation
+
     ```bash
     git clone https://github.com/XizmatHubRec/Frequency-recorder.git
     cd Frequency-recorder
