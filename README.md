@@ -12,6 +12,10 @@
 
 ## Installation
 
+## Full installation
+
+
+
 ### Linux (Ubuntu / Debian-based)
 
 1. Ensure that Python 3 is installed on your system. If not, install it using the following command:
@@ -28,11 +32,14 @@
     ```
 
 3. Clone the repository to your local machine:
-
+### Full installation
     ```bash
-    git clone https://github.com/yourusername/REV-Parametrlari-Dasturi.git
-    cd REV-Parametrlari-Dasturi
+    git clone https://github.com/XizmatHubRec/Frequency-recorder.git
+    cd Frequency-recorder
+    chmod +x setaup.sh
+    ./setup.sh
     ```
+
 
 4. Install the Python dependencies using pip:
 
@@ -61,10 +68,12 @@
     ```
 
 3. Clone the repository to your local machine:
-
+### Full installation
     ```bash
-    git clone https://github.com/yourusername/REV-Parametrlari-Dasturi.git
-    cd REV-Parametrlari-Dasturi
+    git clone https://github.com/XizmatHubRec/Frequency-recorder.git
+    cd Frequency-recorder
+    chmod +x setaup.sh
+    ./setup.sh
     ```
 
 4. Install the Python dependencies using pip:
@@ -92,8 +101,8 @@
 3. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/REV-Parametrlari-Dasturi.git
-    cd REV-Parametrlari-Dasturi
+    git clone https://github.com/XizmatHubRec/Frequency-recorder.git
+    cd Frequency-recorder
     ```
 
 4. Install the Python dependencies using pip:
